@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lkas;dfj
 asdjfkl;asdjf
 ajsdklfjas
@@ -7,3 +8,12 @@ aosjdfa
 sdfjlka;sjd
 fjasdkl;fj
 as
+=======
+as;ldfjasd
+fjalksdjf'asd
+fjaklsdjf
+asdjfkl;ajsd
+fjaskldfjas
+dfjakls;djf
+asd
+>>>>>>> new_branch
